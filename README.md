@@ -73,4 +73,8 @@ Interpreting and visualizing results
 
 #OUTPUT 
 
+<img width="539" height="453" alt="Image" src="https://github.com/user-attachments/assets/6a0d1576-d7ec-4764-bb08-df529028a68e" />
 
+<img width="859" height="545" alt="Image" src="https://github.com/user-attachments/assets/dca27e8c-36d1-4a8f-a51a-1804e30618b3" />
+
+<img width="989" height="279" alt="Image" src="https://github.com/user-attachments/assets/eef74986-f16a-489e-9e88-84dcb444361d" />
